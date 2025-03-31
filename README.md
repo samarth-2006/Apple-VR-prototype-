@@ -21,13 +21,16 @@ HTML & CSS (UI elements and styling)
 
 Clone the repository:
 
-git clone https://github.com/samarth-2006/Apple-Vr-Prototype.git
+git clone 
+```bash
+https://github.com/samarth-2006/Apple-Vr-Prototype.git
+```
 
 Navigate to the project directory:
-
+```bash
 cd apple-vr-prototype
+```
 
-Open index.html in a browser that supports WebXR.
 
 # Usage
 
