@@ -1,21 +1,15 @@
 # Apple-VR-prototype
-Overview
+# Overview
 
 This is a prototype of an Apple VR experience built using JavaScript. The project aims to simulate a VR environment with basic interactions, providing an immersive user experience.
 
-Features
-
-3D environment rendering
-
-Basic VR interactions
-
-Motion tracking support
+# Features
 
 User interface elements for navigation
 
 Optimized performance for smooth VR rendering
 
-Technologies Used
+# Technologies Used
 
 JavaScript (Core functionality)
 
@@ -23,7 +17,7 @@ Canvas
 
 HTML & CSS (UI elements and styling)
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -35,7 +29,7 @@ cd apple-vr-prototype
 
 Open index.html in a browser that supports WebXR.
 
-Usage
+# Usage
 
 Use a VR headset for an immersive experience.
 
@@ -57,11 +51,11 @@ Contributing
 
 Feel free to fork the repository and submit pull requests with improvements!
 
-License
+# License
 
 This project is licensed under the MIT License.
 
-Contact
+# Contact
 
 For any questions or suggestions, contact [dagarsamarth0808@gmail.com].
 
