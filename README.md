@@ -1,15 +1,18 @@
 # Apple-VR-prototype
+## 🔗 Links
+https://glowing-youtiao-cabc4b.netlify.app/
+
 # Overview
 
 This is a prototype of an Apple VR experience built using JavaScript. The project aims to simulate a VR environment with basic interactions, providing an immersive user experience.
 
-# Features
+## 🚀 Features
 
 User interface elements for navigation
 
 Optimized performance for smooth VR rendering
 
-# Technologies Used
+## 🛠 Technologies Used
 
 JavaScript (Core functionality)
 
